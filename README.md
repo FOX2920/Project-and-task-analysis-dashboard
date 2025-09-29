@@ -67,7 +67,7 @@ Hỗ trợ xuất báo cáo:
 
 - **Frontend**: Streamlit
 - **Visualization**: Plotly, Matplotlib, Seaborn
-- **AI**: Google Gemini 2.0 Flash / Gemma 2
+- **AI**: Google Gemini 2.0 Flash / Gemma 3
 - **API**: WeWork, Account Base.vn
 - **Export**: python-docx, pandas, openpyxl
 
@@ -76,7 +76,3 @@ Hỗ trợ xuất báo cáo:
 - AI analysis yêu cầu Google GenAI API key
 - PDF export cần cài thêm: `pip install reportlab`
 - Cần quyền truy cập WeWork và Account APIs
-
-## License
-
-Internal use only
